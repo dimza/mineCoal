@@ -20,7 +20,7 @@ All required packages are listed in the `requirements.txt` file.
 
 2. Navigate to the project directory:
     ```bash
-    cd basic-coal-mining-analysis
+    cd mineCoal
     ```
 
 3. Install the required packages:
